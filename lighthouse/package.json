@@ -1,0 +1,17 @@
+{
+  "name": "lighthouse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lighthouse-script-v13.4.1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "lighthouse": "^13.4.1",
+    "puppeteer": "^25.16.0"
+  }
+}

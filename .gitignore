@@ -1,0 +1,6 @@
+gatling/target/
+lighthouse/node_modules/
+lighthouse/*.html
+reports/
+*.jtl
+*.log

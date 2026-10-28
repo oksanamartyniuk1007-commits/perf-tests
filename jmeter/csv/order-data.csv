@@ -1,0 +1,6 @@
+cart_name,cart_company,cart_address,cart_postal,cart_city,cart_country,cart_state,cart_phone,cart_email
+John Doe,QA Team,Via Roma 10,40121,Bologna,IT,IT_BO,380991234567,john@test.com
+Jane Smith,Test Lab,Via Emilia 25,40026,Imola,IT,IT_BO,380992345678,jane@test.com
+Alex Brown,Perf Group,Via Porrettana 3,40033,Casalecchio di Reno,IT,IT_BO,380993456789,alex@test.com
+Maria Green,Load Test,Via Mazzini 7,40068,San Lazzaro di Savena,IT,IT_BO,380994567890,maria@test.com
+Ivan Black,QA Studio,Via Garibaldi 12,40054,Budrio,IT,IT_BO,380995678901,ivan@test.com
